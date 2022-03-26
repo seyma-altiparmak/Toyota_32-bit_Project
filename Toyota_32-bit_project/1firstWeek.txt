@@ -1,0 +1,43 @@
+Temelde:
+Analiz --> Çözüm --> Geliştirme --> Rekabet 
+
+inviso: saha verileri toplayan online - offline kullanılabilen program.
+
+Teknolojiler:
+-----------------------------------------------------------------------
+1 React JS 
+(fuctional base)
+
+2 Node JS + Node Package Manager
+
+3 HTML5 + CSS3
+
+4 Material UI 
+(Component Design)
+
+5 Formik - YUP
+(Form ve Validasyon Yönetimi)
+
+6 Axios 
+(Rest API)
+
+7 React Router Dom 
+(Suggested min V5 Redux-Context API // State Management)
+
+8 i18-next
+(lokalizasyon yönetimi)
+
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+!!Dikkat!!
+------------------------------------------------------------------------
+1-Responsive Design 
+2-Component Based Structure
+(Reusable Components)
+3-React Hooks -- Custom Hooks
+4-Çoklu Dil Desteği
+5-UI Blocking
+6-Git kullanımı
+7-Readme.md
+8-Veri listeleme,sayfalama,sıralama,filtreleme
+------------------------------------------------------------------------
